@@ -1,0 +1,12 @@
+#define SEMI                             1
+#define PIPE                             2
+#define END                              3
+#define AMP                              4
+#define GT                               5
+#define NUMBER                           6
+#define WORD                             7
+#define LT                               8
+#define BRL                              9
+#define BRR                             10
+#define PL                              11
+#define PR                              12
